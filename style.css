@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.body-img{
+    background-image: url(img/body-image.png);
+    width: 100%;
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-link a{
+    color: white;
+}
+.navbar-link a:hover{
+    color: #BF8836;
+}
+.qahva{
+    width: 100%;
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(img/qahva.png);
+    margin-top: 30px;
+}
+.qahva-tayyorlash{
+    background-image: url(img/qahva-tayyorlash.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 400px;
+}
+.col-6-vide{
+    width: 800px;
+    min-height: 400px;
+    background-image: url(img/videoo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
